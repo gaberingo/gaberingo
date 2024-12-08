@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaberingo&label=Profile%20views&color=0e75b6&style=flat" alt="gaberingo" /> </p>
 
-- 🔭 I’m currently working on [Witech Inovasi Indonesia](https://witech.co.id/)
+- 🔭 I’m currently working on [Hashmicro](https://hashmicro.com/)
 
 - 🌱 I’m currently learning **Odoo, Golang, Docker and AI**
 
