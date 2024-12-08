@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Witech Inovasi Indonesia](https://witech.co.id/)
 
-- 🌱 I’m currently learning **Django, Golang, Docker and AI**
+- 🌱 I’m currently learning **Odoo, Golang, Docker and AI**
 
-- 💬 Ask me about **Python,**
+- 💬 Ask me about **Odoo, Golang, Python,**
 
 - 📫 How to reach me **gaberingo12@gmail.com**
 
