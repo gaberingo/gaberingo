@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Odoo, Golang, Docker and AI**
 
-- 💬 Ask me about **Odoo, Golang, Python,**
+- 💬 Ask me about **Odoo, Rust, Python,**
 
 - 📫 How to reach me **gaberingo12@gmail.com**
 
