@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hashmicro](https://hashmicro.com/)
 
-- 🌱 I’m currently learning **Odoo, Golang, Docker and AI**
+- 🌱 I’m currently learning **Odoo, Rust, Docker and AI**
 
 - 💬 Ask me about **Odoo, Rust, Python,**
 
